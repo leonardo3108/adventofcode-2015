@@ -64,7 +64,7 @@ def find_optimal_seating(happiness_dict):
 
     return max_happiness
 
-if __name__ == "__main__":
+def main():
     print('\nExample:')
     happiness_dict = parse_example()
     optimal_seating_happiness = find_optimal_seating(happiness_dict)
@@ -79,3 +79,6 @@ if __name__ == "__main__":
     add_yourself_to_happiness(happiness_dict, "You")
     optimal_seating_happiness = find_optimal_seating(happiness_dict)
     print("\tTotal change in happiness for the optimal seating arrangement:", optimal_seating_happiness)
+
+if __name__ == "__main__":
+    main()
