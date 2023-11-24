@@ -22,3 +22,4 @@ I'll explore ChatGPT for helping me to build, fix and optimize the code.
 * [Day 13](https://chat.openai.com/share/4ea71db2-21d8-4008-9b94-bce022870aa4)
 * [Day 14](https://chat.openai.com/share/3b71ca39-9f57-4b3c-ac18-612575bd000e)
 * [Day 15](https://chat.openai.com/share/8a8966c8-6d28-4ec6-9b07-c894422cba2f)
+* [Day 16](https://chat.openai.com/share/27bd4b2f-83a7-426f-a2ad-d4843dde7801)
